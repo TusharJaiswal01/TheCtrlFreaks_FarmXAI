@@ -30,6 +30,8 @@ AI-Powered Smart Farming is a comprehensive digital solution designed to empower
   - Uses Convolutional Neural Networks (CNNs) for image classification.
   - Detects plant diseases with **96% accuracy**.
   - Provides recommendations for treatment and prevention.
+ 
+    ![Image](https://github.com/user-attachments/assets/e27fc50c-0b7c-4896-bbc7-9bbfb7f1415f)
 
 ### 4️⃣ **IoT-Powered Motion Tracking System**
 - **Problem Solved:** Theft and unauthorized access to storage facilities.
