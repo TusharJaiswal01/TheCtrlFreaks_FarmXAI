@@ -46,6 +46,9 @@ AI-Powered Smart Farming is a comprehensive digital solution designed to empower
   - Computer vision system analyzes real-time farm footage.
   - Detects animals using object detection models (YOLOv8, Faster R-CNN).
   - Activates deterrent systems (alarms, lights) and sends alerts.
+ 
+    <img width="1700" alt="Image" src="https://github.com/user-attachments/assets/b21f8775-5143-432f-8747-ff63e7d713a2" />
+
 
 ### 6️⃣ **AI-Powered Irrigation & Fertilizer Planner**
 - **Problem Solved:** Inefficient water and fertilizer usage.
