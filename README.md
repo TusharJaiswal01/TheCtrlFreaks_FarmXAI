@@ -11,6 +11,8 @@ AI-Powered Smart Farming is a comprehensive digital solution designed to empower
   - AI-powered chatbot trained on agricultural datasets.
   - Supports 12+ languages using Natural Language Processing (NLP).
   - Provides real-time farming guidance on best practices, disease control, and government schemes.
+ 
+    <img width="1710" alt="Image" src="https://github.com/user-attachments/assets/04cc09ca-ebe9-4be3-a053-a5b347a1451a" />
 
 ### 2️⃣ **Fine-Tuned Farming Assistant**
 - **Problem Solved:** Lack of personalized expert advice for farmers.
