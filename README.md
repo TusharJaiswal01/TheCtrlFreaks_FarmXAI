@@ -20,6 +20,9 @@ AI-Powered Smart Farming is a comprehensive digital solution designed to empower
   - AI model trained on vast agricultural datasets.
   - Uses reinforcement learning to adapt responses based on farmer queries.
   - Accessible via mobile and web platforms.
+ 
+    <img width="1710" alt="Image" src="https://github.com/user-attachments/assets/29761453-972f-4af4-bf28-63bf677e6a1b" />
+
 
 ### 3️⃣ **Image-Based Plant Disease Detection**
 - **Problem Solved:** Farmers struggle with early disease identification, leading to crop loss.
