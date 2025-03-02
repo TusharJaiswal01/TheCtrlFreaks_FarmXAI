@@ -64,6 +64,8 @@ AI-Powered Smart Farming is a comprehensive digital solution designed to empower
   - Suggests optimal seeds and fertilizers for maximum yield.
   - Provides seasonal planting recommendations.
 
+<img width="848" alt="Image" src="https://github.com/user-attachments/assets/7ff6516c-1b12-425c-bf6b-a4615fae413c" />
+
 ### 8️⃣ **Real-Time Online Bidding Platform**
 - **Problem Solved:** Middlemen reduce farmers' profits in traditional selling methods.
 - **Technical Approach:**
